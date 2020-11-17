@@ -5,7 +5,8 @@
   "author": "Finabluma <oscar.francino@finabluma.com>",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby develop"
+    "dev": "gatsby develop",
+    "build": "gatsby build"
   },
   "dependencies": {
     "@reach/dialog": "^0.11.2",
