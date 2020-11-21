@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Finabluma <oscar.francino@finabluma.com>",
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "dev": "gatsby develop",
     "build": "gatsby build"
